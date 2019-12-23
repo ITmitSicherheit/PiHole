@@ -7,9 +7,8 @@
 # ... PiHole-Blocklist ...    
 #   www.csg-systemhaus.de    
 #
-# ===============================================================
 
-127.0.0.1 pepestacovilla.com
-127.0.0.1 magnumseoul.com
-127.0.0.1 quarks.net
+pepestacovilla.com
+magnumseoul.com
+quarks.net
 
