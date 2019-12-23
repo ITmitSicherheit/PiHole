@@ -1,14 +1,4 @@
-#  ██████╗███████╗ ██████╗ 
-# ██╔════╝██╔════╝██╔════╝ 
-# ██║     ███████╗██║  ███╗
-# ██║     ╚════██║██║   ██║
-# ╚██████╗███████║╚██████╔╝
-#  ╚═════╝╚══════╝ ╚═════╝ 
-# ... PiHole-Blocklist ...    
-#   www.csg-systemhaus.de    
-#
-
-pepestacovilla.com
-magnumseoul.com
-quarks.net
-
+127.0.0.1   pepestacovilla.com
+127.0.0.1   magnumseoul.com
+127.0.0.1   quarks.net
+127.0.0.1   711.us
