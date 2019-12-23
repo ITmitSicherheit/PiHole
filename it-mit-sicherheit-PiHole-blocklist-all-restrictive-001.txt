@@ -1,4 +1,5 @@
-127.0.0.1   pepestacovilla.com
-127.0.0.1   magnumseoul.com
-127.0.0.1   quarks.net
-127.0.0.1   711.us
+127.0.0.1 pepestacovilla.com
+127.0.0.1 magnumseoul.com
+127.0.0.1 quarks.net
+127.0.0.1 711.us
+127.0.0.1 vpn.0711.de
