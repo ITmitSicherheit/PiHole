@@ -1,7 +1,6 @@
-#
 0.0.0.0 pepestacovilla.com
 0.0.0.0 magnumseoul.com
 0.0.0.0 quarks.net
 0.0.0.0 711.us
 0.0.0.0 vpn.0711.de
-#
+###END
