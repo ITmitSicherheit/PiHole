@@ -13,3 +13,5 @@
 0.0.0.0 magnumseoul.com
 0.0.0.0 cilamazers.fun
 0.0.0.0 digimae.website
+0.0.0.0 loocasoft.com
+0.0.0.0 ryjkb.loocasoft.com
