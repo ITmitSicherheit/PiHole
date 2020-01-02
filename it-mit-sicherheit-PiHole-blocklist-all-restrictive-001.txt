@@ -6,3 +6,4 @@
 0.0.0.0 ryjkb.loocasoft.com
 0.0.0.0 thelotter.com
 0.0.0.0 kundenadressen24.com
+0.0.0.0 fecola.jouetsduplaisir.fr
