@@ -4,3 +4,5 @@
 0.0.0.0 digimae.website
 0.0.0.0 loocasoft.com
 0.0.0.0 ryjkb.loocasoft.com
+0.0.0.0 thelotter.com
+0.0.0.0 kundenadressen24.com
