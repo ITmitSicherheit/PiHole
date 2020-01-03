@@ -12,3 +12,4 @@
 0.0.0.0 event4free.de
 0.0.0.0 vb.mailpower.org
 0.0.0.0 seanewsonline.com
+0.0.0.0 smartapoteka01.info
