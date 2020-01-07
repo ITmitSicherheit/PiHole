@@ -15,3 +15,5 @@
 0.0.0.0 www.seanewsonline.com
 0.0.0.0 smartapoteka01.info
 0.0.0.0 worldapoteka.site
+0.0.0.0 www.top-media.top
+0.0.0.0 top-media.top
