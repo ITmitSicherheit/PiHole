@@ -19,3 +19,6 @@
 0.0.0.0 top-media.top
 0.0.0.0 gallery.mailchimp.com
 0.0.0.0 tracking.eu-de04.newsletterspacebox.com
+0.0.0.0 rybsj.mrbahrami.com
+0.0.0.0 mrbahrami.com
+0.0.0.0 datingtimehere1.com
