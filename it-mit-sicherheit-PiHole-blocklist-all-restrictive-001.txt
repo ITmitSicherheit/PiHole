@@ -22,3 +22,4 @@
 0.0.0.0 rybsj.mrbahrami.com
 0.0.0.0 mrbahrami.com
 0.0.0.0 datingtimehere1.com
+0.0.0.0 enelsero.shop
