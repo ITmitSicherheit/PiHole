@@ -24,3 +24,4 @@
 0.0.0.0 datingtimehere1.com
 0.0.0.0 enelsero.shop
 0.0.0.0 kundenwachstum52.de
+0.0.0.0 www.kalkulator-ubezpieczeniowy.pl
