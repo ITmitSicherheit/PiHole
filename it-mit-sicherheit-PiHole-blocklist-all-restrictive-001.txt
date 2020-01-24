@@ -29,3 +29,6 @@
 0.0.0.0 www.sm-marketing-media.net
 0.0.0.0 img.promio-connect.com
 0.0.0.0 promio.firmennews.de
+0.0.0.0 kundenadressen24.com
+0.0.0.0 www.thelotter.com
+0.0.0.0 thelotter.com
