@@ -33,3 +33,4 @@
 0.0.0.0 www.thelotter.com
 0.0.0.0 thelotter.com
 0.0.0.0 managementeventseng.mailpv.net
+0.0.0.0 www.online-top.net
