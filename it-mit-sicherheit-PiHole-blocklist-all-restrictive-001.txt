@@ -37,3 +37,8 @@
 0.0.0.0 tracking.led-solutions-germany.com
 0.0.0.0 led-solutions-germany.com
 0.0.0.0 www.led-solution-germany.de
+0.0.0.0 gallery.freshmarketer.com
+0.0.0.0 url951.fmsend.net
+0.0.0.0 freshworks.freshmarketer.com
+0.0.0.0 www.freshworks.com
+
