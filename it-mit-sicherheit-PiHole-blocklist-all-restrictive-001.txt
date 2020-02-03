@@ -41,4 +41,5 @@
 0.0.0.0 url951.fmsend.net
 0.0.0.0 freshworks.freshmarketer.com
 0.0.0.0 www.freshworks.com
+0.0.0.0 kb.mailpower.org
 
