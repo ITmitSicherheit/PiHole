@@ -42,4 +42,7 @@
 0.0.0.0 freshworks.freshmarketer.com
 0.0.0.0 www.freshworks.com
 0.0.0.0 kb.mailpower.org
-
+0.0.0.0 xf7.batunakis.co
+0.0.0.0 batunakis.co
+0.0.0.0 dt04.mrbahrami.com
+0.0.0.0 mrbahrami.com
