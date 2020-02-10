@@ -49,3 +49,7 @@
 0.0.0.0 a6w-4.jammyads.com
 0.0.0.0 jammyads.com
 0.0.0.0 pipinge.club
+0.0.0.0 ww.redaktionswerft.de
+0.0.0.0 dub-magazin.de
+0.0.0.0 www.ttmsprachen.de
+0.0.0.0 track.ttmltd.uk
