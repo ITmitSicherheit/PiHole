@@ -56,3 +56,5 @@
 0.0.0.0 track.movements-fr.com
 0.0.0.0 www.movementis.com
 0.0.0.0 partners.seynd.com
+0.0.0.0 trans.pepitrans02.com
+0.0.0.0 api.elasticemail.com
