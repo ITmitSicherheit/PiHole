@@ -59,3 +59,4 @@
 0.0.0.0 trans.pepitrans02.com
 0.0.0.0 api.elasticemail.com
 0.0.0.0 www.rundesleder.info
+0.0.0.0 www.bb1aaver.site
