@@ -64,3 +64,4 @@
 0.0.0.0 flashbay.com
 0.0.0.0 www.flashbay.de
 0.0.0.0 www.cc3dixxit.online
+0.0.0.0 www.xingwangli.com
