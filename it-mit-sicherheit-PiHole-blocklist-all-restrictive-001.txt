@@ -67,3 +67,5 @@
 0.0.0.0 www.xingwangli.com
 0.0.0.0 roller-coaster.info
 0.0.0.0 www.cc3effuns.shop
+0.0.0.0 cy1j.awaykart.com
+0.0.0.0 awaykart.com
