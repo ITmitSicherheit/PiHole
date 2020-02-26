@@ -71,3 +71,4 @@
 0.0.0.0 awaykart.com
 0.0.0.0 nypost.com
 0.0.0.0 www.cc4poned.ovh
+0.0.0.0 io.whenwillbe.fyi
