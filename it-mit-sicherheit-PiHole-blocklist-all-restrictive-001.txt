@@ -79,3 +79,5 @@
 0.0.0.0 sg6z.awaykart.com
 0.0.0.0 awaykart.com
 0.0.0.0 www.electim.site
+0.0.0.0 promio.firmennews.de
+0.0.0.0 img.promio-connect.com
