@@ -76,3 +76,5 @@
 0.0.0.0 www.a5adber.shop
 0.0.0.0 28279832738.s3-eu-west-1.amazonaws.com
 0.0.0.0 j2kr.somosinn.com
+0.0.0.0 sg6z.awaykart.com
+0.0.0.0 awaykart.com
