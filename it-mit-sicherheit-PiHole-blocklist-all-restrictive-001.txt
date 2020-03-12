@@ -83,3 +83,4 @@
 0.0.0.0 img.promio-connect.com
 0.0.0.0 yp4c.umeshkz.com
 0.0.0.0 umeshkz.com
+0.0.0.0 b754675687.s3.eu-central-1.amazonaws.com
